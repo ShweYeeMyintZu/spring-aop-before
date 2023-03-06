@@ -12,6 +12,7 @@
         <module>aop-before</module>
         <module>aop-after</module>
         <module>aop-within</module>
+        <module>aop-annotationwithin</module>
     </modules>
 
     <properties>
