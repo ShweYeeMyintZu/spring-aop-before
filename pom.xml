@@ -11,6 +11,7 @@
     <modules>
         <module>aop-before</module>
         <module>aop-after</module>
+        <module>aop-within</module>
     </modules>
 
     <properties>

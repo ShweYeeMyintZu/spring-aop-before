@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/aop-after/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aop-before/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aop-before/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop-within/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop-within/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
